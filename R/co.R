@@ -1,6 +1,6 @@
-#' Tibble con i dati di co per 2 stazioni della regione CAMPANIA
+#' Tibble con i dati di co per 17 stazioni della regione CAMPANIA
 #'
-#' @format Un tibble con 8 colonne e 3644 osservazioni
+#' @format Un tibble con 8 colonne e 33524 osservazioni
 #'
 #' @usage
 #' co
